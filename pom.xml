@@ -15,7 +15,7 @@
         <java.version>1.8</java.version>
         <org.apache.jmeter.version>5.0</org.apache.jmeter.version>
         <org.apache.commons>3.7</org.apache.commons>
-        <org.elasticsearch.client>6.4.0</org.elasticsearch.client>
+        <org.elasticsearch.client>6.8.15</org.elasticsearch.client>
     </properties>
 
     <dependencies>
